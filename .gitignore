@@ -11,6 +11,9 @@ __pycache__/
 *.xls
 *.csv
 
+# Document ignore
+*.doc
+
 # Distribution / packaging
 .Python
 build/
